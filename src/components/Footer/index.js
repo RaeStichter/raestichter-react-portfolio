@@ -4,17 +4,17 @@ import linkedin from '../../assets/footer/linkedin.png';
 
 function Footer() {
     return (
-        <footer style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '100vh'}}>
+        <footer className="site-info">
             <nav>
-                <ul className="flex-row">
+                <ul className="social-links">
                     <li>
                         <a href="https://github.com/RaeStichter">
-                            <img src={github} style={{ width: "15%" }} alt="Github" />
+                            <img src={github} alt="Github" />
                         </a>
                     </li>
                     <li>
                         <a href="https://www.linkedin.com/in/raeann-stichter-34015181/">
-                            <img src={linkedin} style={{ width: "15%" }} alt="LinkedIn" />
+                            <img src={linkedin} alt="LinkedIn" />
                         </a>
                     </li>
                 </ul>
