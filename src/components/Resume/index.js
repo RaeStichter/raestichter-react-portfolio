@@ -11,7 +11,20 @@ function Resume() {
                 <p>Downloadable <a href="resume.com">Resume Link</a></p>
             </div>
             <h2>Front End</h2>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>jQuery</li>
+                <li>Bootstrap</li>
+                <li>React</li>
+            </ul>
             <h2>Back End</h2>
+            <ul>
+                <li>Node.js</li>
+                <li>Express.js</li>
+                <li>SQL</li>
+                <li>MongoDB</li>
+            </ul>
         </section>
     );
 }
