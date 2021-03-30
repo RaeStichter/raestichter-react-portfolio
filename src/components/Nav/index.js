@@ -25,7 +25,7 @@ function Nav() { //put props in here
   return (
     <header className="flex-row px-1">
       <h2>
-        <a data-testid="link" href="/">
+        <a data-testid="link" href="/#about">
           RaeAnn Stichter
         </a>
       </h2>
