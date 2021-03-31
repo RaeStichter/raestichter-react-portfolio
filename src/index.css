@@ -238,7 +238,7 @@ textarea {
 .img-thumbnail {
   width: auto;
   height: 300px;
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
   cursor: pointer;
 }
 
@@ -310,3 +310,39 @@ a {
   -webkit-transform: translateX(-50%);
   transform: translateX(-50%)
 }
+
+.project-box {
+  position: relative;
+  width: auto;
+  height: 300px;
+  margin-bottom: 50px;
+  /* display: inline-block; */
+}
+
+.project-links {
+  /* display: inline-block; */
+  position: absolute;
+  height: 300px;
+  /* z-index: 999; */
+  margin: 0 auto;
+  left: 0;
+  right: 0;        
+  text-align: center;
+  top: 5%; /* Adjust this value to move the positioned div up and down */
+  /* background: rgba(211, 41, 41, 0.8); */
+  font-family: Arial,sans-serif;
+  color: rgb(49, 211, 71);
+  width: 100%; /* Set the width of the positioned div */
+}
+
+.project-links:hover {
+  color:#B12704;
+}
+
+.github-img {
+  /* float: none; */
+  max-width: 5vw;
+  /* display: inline-flex;
+  text-align: center;
+  margin-bottom: 10px;*/
+} 
