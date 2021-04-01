@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/raestichter-react-portfolio/static/css/main.f6be1bef.chunk.css",
+    "main.js": "/raestichter-react-portfolio/static/js/main.d19dd347.chunk.js",
+    "main.js.map": "/raestichter-react-portfolio/static/js/main.d19dd347.chunk.js.map",
+    "runtime-main.js": "/raestichter-react-portfolio/static/js/runtime-main.94c21bbd.js",
+    "runtime-main.js.map": "/raestichter-react-portfolio/static/js/runtime-main.94c21bbd.js.map",
+    "static/js/2.0e0bf5e6.chunk.js": "/raestichter-react-portfolio/static/js/2.0e0bf5e6.chunk.js",
+    "static/js/2.0e0bf5e6.chunk.js.map": "/raestichter-react-portfolio/static/js/2.0e0bf5e6.chunk.js.map",
+    "static/js/3.33d6abe9.chunk.js": "/raestichter-react-portfolio/static/js/3.33d6abe9.chunk.js",
+    "static/js/3.33d6abe9.chunk.js.map": "/raestichter-react-portfolio/static/js/3.33d6abe9.chunk.js.map",
+    "index.html": "/raestichter-react-portfolio/index.html",
+    "static/css/main.f6be1bef.chunk.css.map": "/raestichter-react-portfolio/static/css/main.f6be1bef.chunk.css.map",
+    "static/js/2.0e0bf5e6.chunk.js.LICENSE.txt": "/raestichter-react-portfolio/static/js/2.0e0bf5e6.chunk.js.LICENSE.txt",
+    "static/media/budget.jpg": "/raestichter-react-portfolio/static/media/budget.a683aabc.jpg",
+    "static/media/covid.jpg": "/raestichter-react-portfolio/static/media/covid.02a57031.jpg",
+    "static/media/github.69ffd9cd.png": "/raestichter-react-portfolio/static/media/github.69ffd9cd.png",
+    "static/media/linkedin.156451cc.png": "/raestichter-react-portfolio/static/media/linkedin.156451cc.png",
+    "static/media/lock.jpg": "/raestichter-react-portfolio/static/media/lock.d741b04b.jpg",
+    "static/media/notes.jpg": "/raestichter-react-portfolio/static/media/notes.0a34d2a6.jpg",
+    "static/media/paranormal.jpg": "/raestichter-react-portfolio/static/media/paranormal.3415fdb8.jpg",
+    "static/media/portfolio-pic.15e44495.jpg": "/raestichter-react-portfolio/static/media/portfolio-pic.15e44495.jpg",
+    "static/media/weather.jpg": "/raestichter-react-portfolio/static/media/weather.000e7773.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94c21bbd.js",
+    "static/js/2.0e0bf5e6.chunk.js",
+    "static/css/main.f6be1bef.chunk.css",
+    "static/js/main.d19dd347.chunk.js"
+  ]
+}
