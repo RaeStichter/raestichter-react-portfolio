@@ -64,7 +64,7 @@ const ProjectList = (props) => {
                 key={props.key}
                 className="img-thumbnail mx-1"
             />
-            <div className="project-links flex-row">
+            <div className="project-links">
                 <a href={props.deployLink}>{props.name}</a>
                 {/* <div className="github-img"> */}
                     <a href ={props.githubLink}>
