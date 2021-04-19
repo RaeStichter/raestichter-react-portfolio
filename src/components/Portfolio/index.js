@@ -5,6 +5,13 @@ function Portfolio() {
 
     const [projects] = useState([
         {
+            name: "Dungeon Master's Guide",
+            photo: 'd20',
+            type: 'Full Stack',
+            deployLink: 'https://dungeon-masters-guide.herokuapp.com/',
+            githubLink: 'https://github.com/RaeStichter/initiate-dnd',
+        },
+        {
           name: 'Paranormal Tourism',
           photo: 'paranormal',
           type: 'Full Stack',
